@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.image-container {
+    text-align: center;
+}
+
+#imagen1 {
+    width: 50%;
+    height: auto; 
+}
+
+#imagen1 {
+    cursor: pointer;
+}
